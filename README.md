@@ -1,1 +1,1 @@
-# Season-of-Open-Source
+# SoOS
