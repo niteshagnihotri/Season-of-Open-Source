@@ -1,4 +1,5 @@
 import Head from "next/head";
+
 function info() {
   return (
     <div>

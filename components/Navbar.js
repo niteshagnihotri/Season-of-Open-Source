@@ -52,14 +52,14 @@ export const Navbar = () => {
                   style={{ width: "200px" }}
                   id="Learn_more"
                   src="https://github.com/girlscript/gssoc-assets/blob/main/Navbar%20logo/GS_logo_Black1.png?raw=true"
-                  alt="GSSoC logo light"
+                  alt="SoOS logo light"
                 />
               ) : (
                 <img
                   style={{ width: "200px" }}
                   id="Learn_more"
                   src="https://github.com/girlscript/gssoc-assets/blob/main/Navbar%20logo/GS_logo_White.png?raw=true"
-                  alt="GSSoC logo dark"
+                  alt="SoOS logo dark"
                 />
               )}
             </span>

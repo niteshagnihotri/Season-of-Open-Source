@@ -22,7 +22,7 @@ const Footer = () => {
               <div className="sm:flex">
                 <div className="sm:flex-1">
                   <h6 className="text-lg font-bold text-black uppercase mt-4 md:mt-0 mb-4 hover:underline">
-                    ABOUT GSSOC
+                    ABOUT SoOS
                   </h6>
                   <div>
                     <a
@@ -97,7 +97,7 @@ const Footer = () => {
                 <p className="text-black">
                   &copy;{" "}
                   <strong>
-                    2022 GirlScript Foundation. Made with 🖤️ by GirlScript
+                    2023 CodeIN Community. Made with 🖤️ by CodeIN Community
                     India. All rights reserved.
                   </strong>
                 </p>
